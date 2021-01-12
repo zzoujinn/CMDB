@@ -40,7 +40,7 @@ def update_test(data):
 if __name__ == '__main__':
     windows_data = {
         "os_type": "Windows",
-        "os_release": "7 64bit  6.1.7601 ",
+        "os_release": "8 64bit  6.1.7601 ",
         "os_distribution": "Microsoft",
         "asset_type": "server",
         "cpu_count": 2,
